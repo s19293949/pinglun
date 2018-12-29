@@ -47,6 +47,7 @@ pos.txt:训练正样本
 5.如出现内容导入后发现实际评论数大于实际评论数的问题，请检查评论中是否存在换行符
 6.使用前将文件夹中所有的新建文本文档删除
 7.词向量下载地址：https://pan.baidu.com/s/19bDbZsFzLggx7q9iFn83Nw（感谢该git主的分享），将文件放置在data中改名为embedding_64
+8.训练模型的正负样本分别命名为pos.txt和neg.txt，放置在data目录下。
 
 ## 感谢
 
